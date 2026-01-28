@@ -1,8 +1,8 @@
-# BINF-2111
+# BINF-2111-6000
 
 **Name:** Daniel Cho  
-**Semester:** Fall 2025  
-**Major:** Biology (Bioinformatics minor)  
-**Year:** Sophomore
+**Semester:** Spring 2026 
+**Major:** M.S Bioinformatics   
+**Year:** Graduate 
 
 This repository contains folders for Labs, Notes, Lectures, Resources, and Practice Scripts.
